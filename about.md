@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# Marco Herbst
 
-### More Information
+Finally, you made it.
 
-A place to include any other types of information that you'd like to include about yourself.
+Now you can find out about [Evercam](https://evercam.io/construction-timelapse), [Camba.tv](https://camba.tv/), [The Malaria Museum](http://malariamuseum.com/), [Headfort School](http://www.headfort.com/), and follow links to various breadcrumbs on the interweb ([linkedin](https://ie.linkedin.com/in/marcoherbst), [fb](https://www.facebook.com/marco.herbst), [G+](https://plus.google.com/+MarcoHerbsto), [Medium](https://medium.com/@marcoherbst))
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+![Signature](http://www.marcoherbst.com/assets/MarcoSig1-e1408632013970.jpg)
