@@ -5,7 +5,7 @@ title: Leaving the American Sector
 
 You are leaving the American Sector
 
-![Leaving the American Sector Sign](http://www.marcoherbst.com/assets/IMG_4289.jpg)
+![Leaving the American Sector Sign](/_images/IMG_4289.jpg)
 
 This is what remains of the original sign from the checkpoint at Heinrich-Heine Strasse in Berlin.
 
