@@ -9,4 +9,4 @@ I asked Nhân Nguyễn to remake it as a PDF based on a photograph of the origin
 
 Here it is for anyone who’s interested. I also have it as an Adobe InDesign file if you prefer.
 
-![Image of UN Declaration of Human Rights](http://www.marcoherbst.com/assets/UNHumanRightsDeclaration-1.gif)
+![Image of UN Declaration of Human Rights](/_images/UNHumanRightsDeclaration-1.gif)
