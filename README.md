@@ -2,7 +2,7 @@
 
 To create a new post, follow these steps:
 
-#### 1. Create new file inside _post folder with any name you want as long as it ends with .md (in order to assign it the file type)
+#### 1. Create new file inside _posts folder with any name you want as long as it ends with .md (in order to assign it the file type)
 #### 2. Write the following:
 ```
 ---
