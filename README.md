@@ -9,7 +9,5 @@ To create a new post, follow these steps:
 layout: post
 title: Place your new post title here
 ---
-
-# Write your title here
 ```
 #### 3. Write any content you want. Use markdown language. If you don't know how to use it, it's a really simple language, click [here](https://guides.github.com/features/mastering-markdown/) to learn about it.
